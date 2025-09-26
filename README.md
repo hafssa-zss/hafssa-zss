@@ -9,8 +9,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hafssa&style=flat-square&color=ff69b4&label=PROFILE+VIEWS)](https://github.com/hafssa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn]
-(#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+
+
 
 </div>
 
