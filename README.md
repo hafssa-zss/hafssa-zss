@@ -1,31 +1,26 @@
-<!-- 🌟 HAFSSA – Web Developer GitHub README 🌟 -->
-
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="70%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="45%"/>  
 
-## 👩‍💻 Hi there, I'm **Hafssa**  
-✨ Creative & passionate **Web Developer**  
-💡 Turning ideas into **modern, responsive** websites & web apps.  
-☕ Powered by **coffee + code** every day!
+## 👩‍💻 Hey, I'm **Hafssa**  
+💻 **Web Developer** – I **create** and **modify** websites to be modern, fast & responsive.  
+✨ Passionate about clean code, user-friendly design, and transforming ideas into reality.
 
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hafssa&style=flat-square&color=ff69b4&label=PROFILE+VIEWS)](https://github.com/hafssa)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](#)
 
 </div>
 
 ---
 
-### 🚀 About Me
-- 🌍 Based in: **Morocco**  
-- 🎯 Goal: Build **beautiful, scalable** web apps  
-- 💖 Love: UI/UX Design, Clean Code, Open Source  
-- 🎶 Coding playlist: **Lo-Fi & Chill Beats**  
+### 🚀 What I Do
+- 🏗️ **Develop** complete websites (Frontend + Backend)  
+- 🔧 **Modify** & improve existing sites (design, code, speed)  
+- 🌐 Build responsive web apps for **all devices**
 
 ---
 
@@ -46,12 +41,12 @@
 </div>
 
 ```dart
-// Hafssa's Dev World 💖
+// Hafssa's Web Skills 💻
 class Hafssa {
-  const myStack = {
-    "Frontend" : { "HTML", "CSS", "JavaScript", "React" },
-    "Backend"  : { "PHP", "Laravel" },
-    "Database" : { "MySQL" },
-    "Tools"    : { "Git", "VSCode", "Figma" }
+  const webServices = {
+    "Develop" : { "Full Websites", "Web Apps" },
+    "Modify"  : { "Design Updates", "Bug Fixes", "Performance Optimization" },
+    "Stack"   : { "HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL" }
   };
 }
+
