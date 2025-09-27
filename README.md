@@ -52,14 +52,23 @@
 
 </div>
 
-<div align="center">
-
-<h2>📊 My GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hafssa-zss&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ff69b4" alt="GitHub Stats" width="47%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafssa-zss&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ffffff" alt="GitHub Streak" width="47%"/>
-
+<div align="center" style="
+  background: linear-gradient(135deg, #a5b4fc 0%, #f5f3ff 40%, #ffffff 100%);
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  margin: 20px auto;
+">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hafssa-zss&show_icons=true&theme=transparent&title_color=1e1b4b&text_color=1e1b4b&icon_color=312e81" 
+    style="border-radius: 12px; margin: 10px;"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hafssa-zss&theme=transparent&ring=312e81&fire=6366f1&currStreakLabel=312e81" 
+    style="border-radius: 12px; margin: 10px;"/>
 </div>
+
+
 
 ```dart
 // Hafssa's Dev Universe ✨
