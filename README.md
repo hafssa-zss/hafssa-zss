@@ -52,7 +52,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-![Hafssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+### 📊 GitHub Status
+![Hafssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafssa-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafssa-dev&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hafssa-dev&theme=radical&border_radius=6)](https://git.io/streak-stats)
+
 
 ```dart
 // Hafssa's Dev Universe ✨
