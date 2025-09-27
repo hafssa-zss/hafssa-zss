@@ -53,9 +53,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafssa-zss&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafssa-zss&theme=dark" />
-</div
+
+<h2>📊 My GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hafssa-zss&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ff69b4" alt="GitHub Stats" width="47%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafssa-zss&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ffffff" alt="GitHub Streak" width="47%"/>
+
+</div>
+
 ```dart
 // Hafssa's Dev Universe ✨
 class Hafssa {
