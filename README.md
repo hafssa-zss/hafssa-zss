@@ -52,6 +52,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" />
+</div
 ```dart
 // Hafssa's Dev Universe ✨
 class Hafssa {
