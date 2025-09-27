@@ -68,7 +68,7 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=hafssa-zss&theme=transparent&ring=312e81&fire=6366f1&currStreakLabel=312e81" 
     style="border-radius: 12px; margin: 10px;"/>
-</div> <br>
+</div> 
 
 
 ```dart
